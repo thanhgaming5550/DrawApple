@@ -1,4 +1,7 @@
 # DrawApple
+
+![Untitled](https://user-images.githubusercontent.com/62001770/175616521-ad5efb17-53b4-4e00-9d88-e9cc398d393f.png)
+
 Draw Apple in mspaint (Study First Step Project Python) _#forStudy_
 
 - Language: Vietnamese
