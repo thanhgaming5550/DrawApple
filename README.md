@@ -8,6 +8,7 @@ Draw Apple in mspaint (Study First Step Project Python) _#forStudy_
 Convert to `.exe` by using IExpress, change Detail Information by using [Resource Hacker](http://www.angusj.com/resourcehacker/)
 
 Require: 
+- [Python v3](https://www.python.org/downloads/)
 - [pyautogui](https://pypi.org/project/PyAutoGUI/)
 
 
