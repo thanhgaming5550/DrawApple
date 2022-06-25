@@ -13,3 +13,5 @@ Require:
 
 
 This is for fun project, lmao
+
+**I TAKE `BIN` FROM 1366x768, SO I THINK ONLY IN THIS RES THE APP WILL RUN CORRECTLY**
